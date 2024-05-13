@@ -1,6 +1,6 @@
 ### 👋 Hey, I’m @Emmanunu or Emmanuelle !
 
-  I'm a 19-year-old computer science student based in Canada, Quebec and I am passionate about programming.
+  I'm a 19-year-old computer science student based in Canada, Quebec and I am passionate about cybersecurity.
 
 ## 📦 Toolbox
 Web dev.
