@@ -3,8 +3,13 @@
   I'm a 19-year-old computer science student based in Canada, Quebec and I am passionate about programming.
 
 ## 📦 Toolbox
+Web dev.
   - Git
   - VSCode
+Pentest
+  - Nmap, Hydra, Hashcat,
+  - Radare2
+  - ...
     
 ## ✨ Fun Facts 
   - I love skiing
