@@ -6,6 +6,7 @@
 Web dev.
   - Git
   - VSCode
+
 Pentest
   - Nmap, Hydra, Hashcat,
   - Radare2
