@@ -9,7 +9,7 @@
 ## ✨ Fun Facts 
   - I love skiing
   - I have a small dog named Betty
-  - My favorite anime is Death Note
+  - My favorite anime is Haikyuu
   - My favorite game is Red Dead Redemption
 
 ## 📫 Contact
