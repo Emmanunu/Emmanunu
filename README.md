@@ -8,7 +8,7 @@ Web dev.
   - VSCode
 
 Pentest
-  - Nmap, Hydra, Hashcat,
+  - Nmap, Hydra, Hashcat, burpsuite, ...
   - Radare2
   - ...
     
