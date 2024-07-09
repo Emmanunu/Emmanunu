@@ -6,6 +6,9 @@
 Web dev.
   - Git
   - VSCode
+  - Postman
+  - MySQL
+  - ...
 
 Pentest
   - Nmap, Hydra, Hashcat, burpsuite, ...
