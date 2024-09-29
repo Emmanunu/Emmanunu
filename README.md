@@ -25,8 +25,7 @@ Pentest
 ## 📫 Contact
   - Linkedin : https://www.linkedin.com/in/emmanuelle-pilon
   - Email : emmanu.pilon@gmail.com
-  - Tryhackme : 
-![tryhackme stats](https://raw.githubusercontent.com/EMM0/EMM0/master/assets/thm_propic.png)
+  - Tryhackme : https://tryhackme.com/p/EMM0
 <!---
 Emmanunu/Emmanunu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
