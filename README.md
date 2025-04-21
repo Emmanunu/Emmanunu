@@ -25,8 +25,6 @@ I’m really into cybersecurity and love doing CTF challenges on TryHackMe and o
 <img align="left" alt="OSINT" width="110px" style="padding-right:10px;" src="https://static.cdnlogo.com/logos/o/88/osint.svg" />
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" />
 <br />
 
 ---
