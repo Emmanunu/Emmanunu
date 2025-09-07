@@ -2,7 +2,7 @@
 
 **`Computer Science Student @ University of Montreal`**
 
-I’m a 20-year-old, second year Computer Science student at the University of Montreal (UdeM). I'm part of the hacking club at UdeM, and I just concluded my internship as a cybersecurity software developer at Mondata. I also participated on the Advisory Committee at TEDx Ville-Marie 2025.
+I’m a 21-year-old, third year Computer Science student at the University of Montreal (UdeM). I'm part of the hacking club at UdeM, and I just concluded my internship as a software developper at Desjardins.
 
 I’m really into cybersecurity and love doing CTF challenges on TryHackMe and others. I’m also a huge car enthusiast and can’t get enough of F1 races. In my spare time, I enjoy skiing, playing video games, and I’m fascinated by space and astronomy.
 
